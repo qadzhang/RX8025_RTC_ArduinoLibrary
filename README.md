@@ -6,4 +6,4 @@ https://github.com/PaulStoffregen/Time
 
 程序在lgt8f328p上测试通过，估计arduino uno 也没问题
 
-IC测试的是爱普生的rx8025 估计上海北岭的bl8025应该也是可以的
+IC测试的是爱普生的rx8025t 估计上海北岭的bl8025t应该也是可以的
